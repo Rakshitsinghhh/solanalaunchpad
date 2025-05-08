@@ -2,7 +2,7 @@
 
 A simple, user-friendly interface for creating custom SPL tokens on the Solana blockchain. This React-based dApp lets anyone create their own tokens with just a few clicks, no coding required.
 
-![Solana Token Launchpad Screenshot](screenshot.png)
+![Solana Token Launchpad Screenshot](./src/assets/image.png)
 
 ## Features
 
@@ -15,7 +15,7 @@ A simple, user-friendly interface for creating custom SPL tokens on the Solana b
 
 ## Live Demo
 
-Try the live demo at [https://solana-token-launchpad.vercel.app](https://solana-token-launchpad.vercel.app)
+Try the live demo at [https://solanalaunchpad-pi.vercel.app](https://solanalaunchpad-pi.vercel.app)
 
 ## Getting Started
 
